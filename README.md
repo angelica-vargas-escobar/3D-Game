@@ -1,2 +1,2 @@
 # 3D-Simple Game
-Working and testing out Unity
+Working with & testing out Unity
